@@ -1,6 +1,6 @@
 # simpleSoundboard
 
-A simple, fully local, ad-free soundboard I vibe-coded to play silly jingles I generated using Google Gemini. 
+A simple, fully local, ad-free soundboard I vibe-coded to play silly jingles I generated using Google Gemini. It stores all uploaded sounds locally in your browser, so you can create and manage your soundboard without any external dependencies or privacy concerns. You can also download your created soundboards as JSON files for backup or sharing, and easily import them back into the app whenever you want.
 
 <img src="image.png" alt="alt text" style="width:50%;">
 
@@ -18,7 +18,7 @@ A simple, fully local, ad-free soundboard I vibe-coded to play silly jingles I g
 
 ### Open the app
 
-[Open the app]
+[Open the app](https://h-arnold.github.io/simpleSoundboard/)
 
 ### Download the html file
 
